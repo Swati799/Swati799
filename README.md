@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swati799
 - 👀 I’m interested in Engineering Maths,Programming in Python,MATLAB,C++ and SQL.
 - 🌱 I’m currently learning C++ framework;Qt
-- 💞️ I’m looking to collaborate on real-life projects related to consumer electronics 
+- 💞️ I’m looking to collaborate on real-life Open Source Projects 
 - 📫 How to reach me swatisaistar@gmail.com
 
 <!---
